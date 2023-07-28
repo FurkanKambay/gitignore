@@ -384,9 +384,6 @@ FodyWeavers.xsd
 !.vscode/extensions.json
 *.code-workspace
 
-# Local History for Visual Studio Code
-.history/
-
 # Windows Installer files from build outputs
 *.cab
 *.msi
